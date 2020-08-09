@@ -8,6 +8,11 @@ public class Deneme {
 		System.out.println("ikinci  satir kodum");
 		
 		System.out.println("ücüncü ssatir kodu");
+		
+		System.out.println("hamza ");
+		
+		System.out.println("cakisma (conflict) - oguzhan");
+		
 	}
 
 }
