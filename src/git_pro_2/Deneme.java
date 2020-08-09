@@ -1,0 +1,10 @@
+package git_pro_2;
+
+public class Deneme {
+
+	public static void main(String[] args) {
+		System.out.println("ikinci projem");
+
+	}
+
+}
